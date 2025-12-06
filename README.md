@@ -45,19 +45,20 @@ This toolkit provides a set of easy-to-use scripts that automate these tasks, al
 ```bash
 git clone https://github.com/yourusername/automation-toolkit.git
 cd automation-toolkit
-Install dependencies:
 ```
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-Run any script:
 ```
+3. Run any script:
 ```bash
 python excel_to_db.py
 python log_analyzer.py
 python folder_organizer.py
 python csv_report_generator.py
-Follow prompts or provide required file paths for each script.
 ```
+4. Follow prompts or provide required file paths for each script.
+
 ---
 
 ## 🗂 Project Structure
@@ -87,23 +88,23 @@ Expandable: New scripts can be added easily
 
 ## 📈 Example Usage
 Folder Organizer
-
 ```bash
 python folder_organizer.py /path/to/folder
+```
 Automatically moves files into subfolders based on file type (e.g., .pdf, .jpg) or date.
 
 Excel → Database Converter
-```
 ```bash
 python excel_to_db.py data.xlsx
-Converts Excel spreadsheets into clean CSV files ready for database import.
 ```
-Log Analyzer
+Converts Excel spreadsheets into clean CSV files ready for database import.
 
+Log Analyzer
 ```bash
 python log_analyzer.py server_logs.log
-Summarizes errors, warnings, and key events from log files.
 ```
+Summarizes errors, warnings, and key events from log files.
+
 ---
 
 ## 🔗 License
