@@ -42,7 +42,7 @@ This toolkit provides a set of easy-to-use scripts that automate these tasks, al
 ## ⚙️ How to Use
 
 1. Clone the repository:
-```bash
+'''bash
 git clone https://github.com/yourusername/automation-toolkit.git
 cd automation-toolkit
 Install dependencies:
@@ -58,6 +58,8 @@ python folder_organizer.py
 python csv_report_generator.py
 Follow prompts or provide required file paths for each script.
 
+---
+
 ## 🗂 Project Structure
 '''bash
 automation-toolkit/
@@ -67,6 +69,9 @@ automation-toolkit/
  ├── csv_report_generator.py # Generates reports from CSV data
  ├── requirements.txt        # Python dependencies
  └── README.md               # Project overview and instructions
+
+---
+ 
 ## 💡 Key Features
 Clean, Readable Code: Easy to understand and modify
 
@@ -77,6 +82,8 @@ Practical & Useful: Can be applied immediately in real-world tasks
 Documented: Inline comments and README for clear guidance
 
 Expandable: New scripts can be added easily
+
+---
 
 ## 📈 Example Usage
 Folder Organizer
@@ -97,8 +104,12 @@ Log Analyzer
 python log_analyzer.py server_logs.log
 Summarizes errors, warnings, and key events from log files.
 
+---
+
 ## 🔗 License
 This project is open-source and distributed under the MIT License.
+
+---
 
 ## 🎯 Why This Project Stands Out for Admissions
 Demonstrates programming proficiency and practical problem-solving
