@@ -42,7 +42,7 @@ This toolkit provides a set of easy-to-use scripts that automate these tasks, al
 ## ⚙️ How to Use
 
 1. Clone the repository:
-'''bash
+''' bash
 git clone https://github.com/yourusername/automation-toolkit.git
 cd automation-toolkit
 Install dependencies:
