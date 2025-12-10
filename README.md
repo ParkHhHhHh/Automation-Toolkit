@@ -74,15 +74,15 @@ automation-toolkit/
 ---
  
 ## 💡 Key Features
-Clean, Readable Code: Easy to understand and modify
+**Clean, Readable Code**: Easy to understand and modify
 
-Modular Scripts: Each automation tool is independent and reusable
+**Modular Scripts**: Each automation tool is independent and reusable
 
-Practical & Useful: Can be applied immediately in real-world tasks
+**Practical & Useful**: Can be applied immediately in real-world tasks
 
-Documented: Inline comments and README for clear guidance
+**Documented**: Inline comments and README for clear guidance
 
-Expandable: New scripts can be added easily
+**Expandable**: New scripts can be added easily
 
 ---
 
